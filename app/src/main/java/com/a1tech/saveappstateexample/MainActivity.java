@@ -39,7 +39,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void saveData(View view) {
-
         // получаем введенные данные
         EditText nameBox = findViewById(R.id.nameBox);
         EditText yearBox = findViewById(R.id.yearBox);
